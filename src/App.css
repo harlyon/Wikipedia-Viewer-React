@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  background: #3F434A;
+}
+
+a, h1{
+  color: #fff;
+}
+
+a.result {
+  text-decoration: none;
+  color: inherit;
+}
+
+.card{
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+  background: #303030;
+  color: #d2d2d2;
+}
+
+
+
