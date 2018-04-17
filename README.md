@@ -1,4 +1,4 @@
-##React Wikipedia Viewer
+## React Wikipedia Viewer
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
